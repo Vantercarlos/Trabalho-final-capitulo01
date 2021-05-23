@@ -1,0 +1,10 @@
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Fábio Martins', '12332145678', 3200.0, TIMESTAMP WITH TIME ZONE '2020-07-13T20:50:07.12345Z', 2);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Kelly Samias', '12332145678', 4200.0, TIMESTAMP WITH TIME ZONE '2020-07-13T20:50:07.12345Z', 2);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Cátia Cilene', '12332145678', 2200.0, TIMESTAMP WITH TIME ZONE '2020-07-13T20:50:07.12345Z', 1);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('José Fernandes', '12332145678', 6200.0, TIMESTAMP WITH TIME ZONE '2020-07-13T20:50:07.12345Z', 3);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Ólavo Pereira', '12332145678', 5200.0, TIMESTAMP WITH TIME ZONE '2020-07-13T20:50:07.12345Z', 2);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Nélio Alves', '12332145678', 2800.0, TIMESTAMP WITH TIME ZONE '2020-07-13T20:50:07.12345Z', 3);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Maria dos Santos', '12332145678', 3200.0, TIMESTAMP WITH TIME ZONE '2020-07-13T20:50:07.12345Z', 1);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Isabel Cristina', '12332145678', 3900.0, TIMESTAMP WITH TIME ZONE '2020-07-13T20:50:07.12345Z', 2);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Thiago Morzart', '12332145678', 3700.0, TIMESTAMP WITH TIME ZONE '2020-07-13T20:50:07.12345Z', 1);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Iucatn Uchoa', '12332145678', 1200.0, TIMESTAMP WITH TIME ZONE '2020-07-13T20:50:07.12345Z', 2);
