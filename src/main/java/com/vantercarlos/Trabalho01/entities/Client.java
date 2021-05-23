@@ -1,4 +1,4 @@
-package com.vantercarlos.Trabalho01.entity;
+package com.vantercarlos.Trabalho01.entities;
 
 import javax.persistence.*;
 import java.io.Serializable;
